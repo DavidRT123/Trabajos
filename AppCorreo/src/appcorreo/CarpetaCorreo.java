@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package appcorreo;
-
+//este comentario antes no estaba aquí
 /**
  *
  * @author AlumMati
